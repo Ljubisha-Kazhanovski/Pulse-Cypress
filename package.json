@@ -1,0 +1,14 @@
+{
+  "name": "ljubsha",
+  "version": "1.0.1",
+  "scripts": {
+    "test": "npx cypress run --headed 'cypress/e2e/Cypress - Automation Testing/Tests/smokeTests'"
+  },
+  "devDependencies": {
+    "@types/node": "6.0.90",
+    "cypress": "^13.6.4",
+    "npm-run-all": "4.0.2",
+    "ts-node": "9.1.1",
+    "typescript": "3.4.5"
+  }
+}

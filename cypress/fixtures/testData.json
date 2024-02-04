@@ -1,0 +1,18 @@
+{
+ "firstName" : "Ljubisha",
+ "country" : "Macedonia",
+ "city" : "Bitola",
+ "userName" : "Ljubisha123",
+ "password" : "Ljubisha321",
+ "email" : "email@email.com",
+ "about" : "За проектот",
+ "aboutText" : "About pulse.eco",
+ "exploreData" : "Пребарај податоци",
+ "participate" : "Учествувај",
+ "participateText" : "Учествувај и помогни да порасне мрежата на твојот град.",
+ "appStore" : "App Store",
+ "playStore" : "Play Store",
+ "register" : "Регистрација",  
+ "navLogIn" : "Најава",
+ "logInError" : "Bad Credentials"
+}
